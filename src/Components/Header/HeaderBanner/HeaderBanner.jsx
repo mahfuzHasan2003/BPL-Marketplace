@@ -3,7 +3,7 @@ import bannerLogo from "../../../assets/Images/banner-main.png"
 import { toast } from 'react-toastify';
 const HeaderBanner = ({ coin, setCoin }) => {
     return (
-        <div className="text-center rounded-md py-8 px-4 space-y-4" id="header-banner">
+        <div className="text-center rounded-md py-8 px-4 space-y-4 w-11/12 max-w-7xl mx-auto" id="header-banner">
             <img src={bannerLogo} alt="" className="mx-auto"/>
             <h2 className="text-4xl text-white font-bold">Assemble Your Ultimate Dream 11 Cricket Team</h2>
             <p className="text-[#ffffffb3]">Beyond Boundaries Beyond Limits</p>

@@ -17,4 +17,4 @@ From this platform you can make your custom squad, claim free credit and buy ple
 - React toastify
 ## Project Live View
 
-[bpl-marketplace.surge.sh](bpl-marketplace.surge.sh)
+[https://bpl-marketplace.surge.sh/](https://bpl-marketplace.surge.sh/)

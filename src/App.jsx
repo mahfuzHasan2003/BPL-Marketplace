@@ -18,7 +18,7 @@ function App() {
       <main className='w-11/12 max-w-7xl mx-auto space-y-8'>
         <Players available={available} setAvailable={setAvailable} selected={selected} setSelected={setSelected} coin={coin} setCoin={setCoin}></Players>
       </main>
-      <footer>
+      <footer className='relative'>
         <SubscribeNewsletter></SubscribeNewsletter>
         <Footer></Footer>
       </footer>

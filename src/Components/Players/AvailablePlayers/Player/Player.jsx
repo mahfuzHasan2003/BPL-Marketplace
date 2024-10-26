@@ -18,7 +18,7 @@ const Player = ({coin, setCoin, player, selected, setSelected}) => {
             toast.error('Maximum number of players added!');
             return;
         }
-        toast.success('Succussfully Added!');
+        toast.success(`${name} added to your squad.`);
         setSelected([...selected, player]);
         setCoin(coin - price);
     }

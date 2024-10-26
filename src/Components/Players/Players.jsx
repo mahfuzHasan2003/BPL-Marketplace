@@ -4,7 +4,7 @@ import SelectedPlayers from "./SelectedPlayers/SelectedPlayers";
 
 const Players = ({available, setAvailable, selected, setSelected, coin, setCoin}) => {
     return (
-        <div>
+        <div className="mb-64">
              <div className="flex items-center justify-between mb-5">
                 <h3 className="text-lg font-semibold">{available ? "Available Players" : `Selected Players ${selected.length}/6`}</h3>
                 <div className="border rounded-lg overflow-hidden">
@@ -15,7 +15,8 @@ const Players = ({available, setAvailable, selected, setSelected, coin, setCoin}
 
              {available ? 
              <AvailablePlayers selected={selected} setSelected={setSelected} coin={coin} setCoin={setCoin}></AvailablePlayers> 
-             : <SelectedPlayers selected={selected} setSelected={setSelected}></SelectedPlayers>}
+             : <SelectedPlayers selected={selected} setSelected={setSelected}  setAvailable={setAvailable}></SelectedPlayers>}
+
         </div>
     );
 };

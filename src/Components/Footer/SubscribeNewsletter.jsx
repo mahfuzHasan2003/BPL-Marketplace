@@ -1,7 +1,7 @@
 import './SubscribeNewsletter.css';
 const SubscribeNewsletter = () => {
     return (
-        <div className='w-11/12 max-w-7xl mx-auto space-y-2 p-5 border rounded-md bg-[#ffffff26]'>
+        <div className='w-11/12 max-w-7xl mx-auto space-y-2 p-5 border rounded-md bg-[#ffffff26] absolute top-0 -translate-y-1/2 left-1/2 -translate-x-1/2'>
             <div className="text-center rounded-md space-y-4 py-32" id="subscribe-newsletter">
                 <h2 className="text-2xl font-bold">Subscribe to our Newsletter</h2>
                 <p>Get the latest updates and news right in your inbox!</p>
@@ -16,3 +16,18 @@ const SubscribeNewsletter = () => {
 };
 
 export default SubscribeNewsletter;
+
+
+
+
+{/* <div class="py-20"></div>
+
+<footer class="relative">
+  <div class="absolute left-1/2 top-0 transform -translate-x-1/2 -translate-y-1/2 w-full container mx-auto">
+    <div class="rounded-md border bg-white p-20 relative"></div>
+  </div>
+
+  <div class="bg-black p-20">
+    <div>Footer Cotnent</div>
+  </div>
+</footer> */}

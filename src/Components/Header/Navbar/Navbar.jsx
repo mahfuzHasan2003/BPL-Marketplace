@@ -3,7 +3,7 @@ import logo from "../../../assets/Images/logo.png"
 
 const Navbar = ({coin}) => {
     return (
-        <div className="flex py-3 items-center justify-between sticky top-0 backdrop-blur w-11/12 max-w-7xl mx-auto space-y-8 bg-[#ffffff42]">
+        <div className="flex py-3 items-center justify-between sticky top-0 backdrop-blur w-11/12 max-w-7xl mx-auto space-y-8 bg-[#ffffff42] z-10">
             <div className="hidden md:block">
                 <img src={logo} alt="" />
             </div>

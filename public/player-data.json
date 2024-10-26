@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "image": "https://i.ibb.co.com/BnKkCmS/piclumen-1729883732357.png",
+        "country": "India",
+        "role": "Batsman",
+        "rating": 5,
+        "price": 12000
+    },
+    {
+        "id": 2,
+        "name": "Joe Root",
+        "image": "https://i.ibb.co.com/KxB0CKg/piclumen-1729884051460.png",
+        "country": "England",
+        "role": "Batsman",
+        "rating": 3,
+        "price": 11000
+    },
+    {
+        "id": 3,
+        "name": "Kane Williamson",
+        "image": "https://i.ibb.co.com/mXc7C2X/piclumen-1729884155011.png",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "rating": 4,
+        "price": 10000
+    },
+    {
+        "id": 4,
+        "name": "Steve Smith",
+        "image": "https://i.ibb.co.com/mSDTdFb/piclumen-1729884225685.png",
+        "country": "Australia",
+        "role": "Batsman",
+        "rating": 5,
+        "price": 13000
+    },
+    {
+        "id": 5,
+        "name": "Babar Azam",
+        "image": "https://i.ibb.co.com/NV23tpS/piclumen-1729884280865.png",
+        "country": "Pakistan",
+        "role": "Batsman",
+        "rating": 5,
+        "price": 14000
+    },
+    {
+        "id": 6,
+        "name": "Jasprit Bumrah",
+        "image": "https://i.ibb.co.com/9G27FM5/piclumen-1729884340362.png",
+        "country": "India",
+        "role": "Bowler",
+        "rating": 2,
+        "price": 12500
+    },
+    {
+        "id": 7,
+        "name": "Trent Boult",
+        "image": "https://i.ibb.co.com/5B0wR3h/piclumen-1729884389332.png",
+        "country": "New Zealand",
+        "role": "Bowler",
+        "rating": 4,
+        "price": 11000
+    },
+    {
+        "id": 8,
+        "name": "Pat Cummins",
+        "image": "https://i.ibb.co.com/Ct4RVSj/piclumen-1729884461981.png",
+        "country": "Australia",
+        "role": "Bowler",
+        "rating": 5,
+        "price": 13500
+    },
+    {
+        "id": 9,
+        "name": "Shaheen Afridi",
+        "image": "https://i.ibb.co.com/3fmMzMz/piclumen-1729884493368.png",
+        "country": "Pakistan",
+        "role": "Bowler",
+        "rating": 4,
+        "price": 9000
+    },
+    {
+        "id": 10,
+        "name": "Ben Stokes",
+        "image": "https://i.ibb.co.com/4fkJzy6/piclumen-1729884536370.png",
+        "country": "England",
+        "role": "All-rounder",
+        "rating": 5,
+        "price": 15000
+    },
+    {
+        "id": 11,
+        "name": "Rashid Khan",
+        "image": "https://i.ibb.co.com/hKGL2S5/piclumen-1729884580507.png",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "rating": 5,
+        "price": 12000
+    },
+    {
+        "id": 12,
+        "name": "Hardik Pandya",
+        "image": "https://i.ibb.co.com/1bkhTJN/piclumen-1729884632101.png",
+        "country": "India",
+        "role": "All-rounder",
+        "rating": 4,
+        "price": 8000
+    },
+    {
+        "id": 13,
+        "name": "Glenn Maxwell",
+        "image": "https://i.ibb.co.com/6n4mJcq/piclumen-1729884698550.png",
+        "country": "Australia",
+        "role": "All-rounder",
+        "rating": 4,
+        "price": 10000
+    },
+    {
+        "id": 14,
+        "name": "Andre Russell",
+        "image": "https://i.ibb.co.com/ZNjCQFN/piclumen-1729884729748.png",
+        "country": "West Indies",
+        "role": "All-rounder",
+        "rating": 5,
+        "price": 14000
+    },
+    {
+        "id": 15,
+        "name": "Jos Buttler",
+        "image": "https://i.ibb.co.com/qy33G5C/piclumen-1729884794438.png",
+        "country": "England",
+        "role": "Wicketkeeper",
+        "rating": 4,
+        "price": 10500
+    },
+    {
+        "id": 16,
+        "name": "Quinton de Kock",
+        "image": "https://i.ibb.co.com/02QNQs7/piclumen-1729884830021.png",
+        "country": "South Africa",
+        "role": "Wicketkeeper",
+        "rating": 4,
+        "price": 9500
+    },
+    {
+        "id": 17,
+        "name": "Mohammed Shami",
+        "image": "https://i.ibb.co.com/ph4QNVG/piclumen-1729884870676.png",
+        "country": "India",
+        "role": "Bowler",
+        "rating": 3,
+        "price": 7000
+    },
+    {
+        "id": 18,
+        "name": "Shakib Al Hasan",
+        "image": "https://i.ibb.co.com/F38K2hB/piclumen-1729884912706.png",
+        "country": "Bangladesh",
+        "role": "All-rounder",
+        "rating": 4,
+        "price": 8000
+    },
+    {
+        "id": 19,
+        "name": "David Warner",
+        "image": "https://i.ibb.co.com/Z2zNm1s/piclumen-1729884949106.png",
+        "country": "Australia",
+        "role": "Batsman",
+        "rating": 4,
+        "price": 10000
+    },
+    {
+        "id": 20,
+        "name": "Faf du Plessis",
+        "image": "https://i.ibb.co.com/dtk6TNS/piclumen-1729884971841.png",
+        "country": "South Africa",
+        "role": "Batsman",
+        "rating": 3,
+        "price": 6000
+    }
+]

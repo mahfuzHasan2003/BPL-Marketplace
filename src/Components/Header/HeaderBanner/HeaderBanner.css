@@ -1,0 +1,9 @@
+#header-banner {
+    background: #131313 url(../../../assets/Images/bg-shadow.png);
+    background-size: 100% 100%;
+}
+button#claim-credit {
+    border: 4px solid #131313;
+    outline: 1px solid rgb(134 239 172);
+    background-color: rgb(134 239 172);
+}
